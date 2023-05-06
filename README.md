@@ -4,7 +4,7 @@ Welcome to the JKLU Campus VR Project! This project is developed using Unreal En
 
 ## Project Description
 
-The JKLu Campus VR Project allows users to explore the various locations and facilities of our university campus in a virtual environment. The project is designed in a third-person perspective, enabling users to navigate with the virtual campus.
+The JKLU Campus VR Project allows users to explore the various locations and facilities of our university campus in a virtual environment. The project is designed in a third-person perspective, enabling users to navigate with the virtual campus.
 
 ## Features
 
@@ -16,13 +16,5 @@ The JKLu Campus VR Project allows users to explore the various locations and fac
 ## Prerequisites
 
 - Unreal Engine 5
-
-## Installation
-
-1. Clone the repository to your local machine.
-2. Open the project in Unreal Engine 5.
-3. Build the project in Unreal Engine and ensure all dependencies are resolved.
-4. Launch the project and enjoy exploring the JKLU Campus in virtual reality!
-
 
 Hope you enjoy exploring our university campus in virtual reality!
