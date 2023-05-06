@@ -17,4 +17,12 @@ The JKLU Campus VR Project allows users to explore the various locations and fac
 
 - Unreal Engine 5
 
+## Credits
+
+- Manasvi Jain
+- Mayank Bohra
+- Naman Goyal
+- Prapti Bhatt
+- Ritika Kuwera
+
 Hope you enjoy exploring our university campus in virtual reality!
